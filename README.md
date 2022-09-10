@@ -17,3 +17,5 @@ Integrantes.
 •	Juan Carlos Narváez. <<GitHub>> https://github.com/ProgramadorPegasus
 
 •	Rojo Pedro Omar. <<GitHub>> https://github.com/tecnosisnet
+
+• Eric Samuel Barrionuevo  <<GitHub>> https://github.com/samuelbarrionuevo
