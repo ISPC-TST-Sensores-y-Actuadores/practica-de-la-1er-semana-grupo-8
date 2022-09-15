@@ -8,4 +8,14 @@ Repositorio de practica de la primer semana de la materia Sensores y Actuadores
 
 
  
+Integrantes.
 
+•	Maria Victoria Schafrik. <<GitHub>>  https://github.com/MaviSchaf
+
+•	Vera Emilio Andres. <<GitHub>> https://github.com/evera8
+
+•	Juan Carlos Narváez. <<GitHub>> https://github.com/ProgramadorPegasus
+
+• Eric Samuel Barrionuevo  <<GitHub>> https://github.com/samuelbarrionuevo
+ 
+• Rojas Jorge Daniel. <> https://github.com/Cabro645
